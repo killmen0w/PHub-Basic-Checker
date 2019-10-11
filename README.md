@@ -1,5 +1,5 @@
 # PHub-Basic-Checker
-Source Code: C# for Basic Pornhub Account Checker (email:pass)
+Basic Pornhub Account Checker (email:pass) C#
 
 Simple exe, load combo, load proxies, check accounts.
 
